@@ -1,0 +1,7 @@
+{
+  "name": "online-mall-api",
+  "private": true,
+  "type": "module",
+  "scripts": { "dev": "node --watch index.mjs", "start": "node index.mjs" },
+  "dependencies": { "cors": "^2.8.5", "express": "^5.1.0", "serverless-http": "^3.2.0" }
+}
